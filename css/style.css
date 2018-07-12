@@ -42,7 +42,7 @@ h1 {
 
 .container-fluid{
 	margin-top: 900px;
-	height: 430px;
+	height: 440px;
 	background-color: #b3dddd;
 }
 
@@ -60,9 +60,9 @@ h4 {
 }
 
 .container-fluid2{
-	border-top: 3px solid black;
+	border-top: 2px solid black;
 	padding-top: 20px;
-	height: 400px;
+	height: 420px;
 	background-color: #b3dddd;
 }
 
@@ -70,5 +70,28 @@ h4 {
  text-align: center;
 }
 
+.container-fluid3{
+	border-top: 2px solid black;
+	padding-top: 20px;
+	height: 420px;
+	background-color: #9effcc;
+}
 
+.container-fluid4{
+	border-top: 2px solid black;
+	padding-top: 20px;
+	height: 420px;
+	background-color: #e2fff0;
+}
+
+.container-fluid5{
+	border-top: 2px solid black;
+	padding-top: 20px;
+	height: 175px;
+	background-color: #dee0e2;
+}
+
+footer {
+	color: #737577;
+}
 
