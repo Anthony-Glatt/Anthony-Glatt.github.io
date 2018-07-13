@@ -40,11 +40,12 @@ h1 {
 }
 
 
-.container-fluid{
+.container-fluid {
 	margin-top: 900px;
 	height: 440px;
 	background-color: #b3dddd;
 }
+
 
 .com-img {
 	display: block;
