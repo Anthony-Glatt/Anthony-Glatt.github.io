@@ -23,7 +23,7 @@ html,body {
 }
 
 /* My Work */
-.section-header{
+.work-header{
 	text-align: center;
 	font-weight: bold;
 	font-size: 50px;
@@ -70,8 +70,15 @@ html,body {
 
 
 /* About Me */
+.about-header{
+	text-align: center;
+	font-weight: bold;
+	font-size: 50px;
+	padding-top: 15px;
+}
+
 .container-fluid3{
-	height: 300px;
+	height: 310px;
 	background-color: #f4f4f4;
 }
 
@@ -80,7 +87,7 @@ html,body {
 }
 
 #me{
-	height: 300px;
+	height: 310px;
 	width: 100%;
 }
 
@@ -92,10 +99,11 @@ html,body {
 	padding-right: 15px;
 }
 
+
 /* Footer */
 .container-fluid4{
-	padding-top: 10px;
-	height: 100px;
+	padding-top: 8px;
+	height: 40px;
 	background-color: #ffffff;
 }
 
@@ -112,18 +120,18 @@ footer {
   @MEDIA QUERIES
   =======================================*/
 
-@media (max-width: 599px) {
-  .work-containerA {
-    width: 95%;
-  }
-}
-@media (min-width: 600px) and (max-width: 899px) {
-  .container {
-    width: 970px;
-  }
-}
-@media (min-width: 900px) {
-  .container {
-    width: 1170px;
-  }
-}
+/* @media (max-width: 599px) { */
+  /* .work-containerA { */
+    /* width: 95%; */
+  /* } */
+/* } */
+/* @media (min-width: 600px) and (max-width: 899px) { */
+  /* .container { */
+    /* width: 970px; */
+  /* } */
+/* } */
+/* @media (min-width: 900px) { */
+  /* .container { */
+    /* width: 1170px; */
+  /* } */
+/* } */
