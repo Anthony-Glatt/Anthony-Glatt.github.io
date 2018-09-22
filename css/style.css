@@ -80,6 +80,7 @@ html,body {
 .container-fluid3{
 	height: 310px;
 	background-color: #f4f4f4;
+	border-radius: 30px;
 }
 
 .skills{
